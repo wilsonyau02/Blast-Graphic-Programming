@@ -67,5 +67,5 @@ Our group, comprising of **Lee Chun Kai**, **Wilson Yau Kai Chun**, and **Eugene
 
 ## Team Members
 1. [Eugene Law Kai Le](https://github.com/EugeneLKL)
-2. [ee Chun Kai](https://github.com/BananaKing123)
+2. [Lee Chun Kai](https://github.com/BananaKing123)
 3. [Wilson Yau Kai Chun](https://github.com/wilsonyau02)
